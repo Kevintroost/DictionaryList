@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryList", "DictionaryList\DictionaryList.csproj", "{3FD3CB8C-C112-4FD4-88D4-2CFB5E805A70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryListTest", "DictionaryListTest\DictionaryListTest.csproj", "{1B9D0E3F-2BFF-409B-9897-8E665D133C67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3FD3CB8C-C112-4FD4-88D4-2CFB5E805A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FD3CB8C-C112-4FD4-88D4-2CFB5E805A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FD3CB8C-C112-4FD4-88D4-2CFB5E805A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B9D0E3F-2BFF-409B-9897-8E665D133C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9D0E3F-2BFF-409B-9897-8E665D133C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9D0E3F-2BFF-409B-9897-8E665D133C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9D0E3F-2BFF-409B-9897-8E665D133C67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
